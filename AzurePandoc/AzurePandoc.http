@@ -1,0 +1,6 @@
+@AzurePandoc_HostAddress = http://localhost:5093
+
+GET {{AzurePandoc_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
